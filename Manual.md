@@ -1,4 +1,4 @@
-Manual for Sulekhanee Sanskrit Phonetic Keyboard
+Manual for Sulekhanee Hindi Native Keyboard
 ================================================
 
 &nbsp;
