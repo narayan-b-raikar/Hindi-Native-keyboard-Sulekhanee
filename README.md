@@ -2,7 +2,7 @@
 
 ## Intruduction
 
-Hindi Native keyboard Sulekhanee is a Keyboard layout built to make convenience for writing Hindi Language very fast across all Windows application. This keyboard is developed based on Kagapa keyboard. So even though letters are assigned to the keys in this keyboard just like the Kagapa keyboard, due to some limitations of the Microsoft keyboard layout creator application, it is not possible to bring the letter combination of the keys in the Kagapa keyboard completely in this keyboard. But also this keyboard is extremely helpful for typing Hindi language very quickly across all windows application. 
+Hindi Native keyboard Sulekhanee is a Keyboard layout built to make convenience for writing Hindi Language very fast across all Windows application. This keyboard is developed based on Kagapa based keyboard layout. Therefore in this keyboard, letters are assigned to the keys  just like the Kagapa based keyboard layout, But, due to some limitations of the Microsoft keyboard layout creator application, it is not possible to bring the letter combination of the keys  completely in this keyboard layout like the  Kagapa based keyboard layout. But unlike the other keyboard layout, this keyboard is extremely helpful for typing Hindi language very quickly across all windows application. 
 
 ## Advantages in this Keyboard layout
 
@@ -27,7 +27,7 @@ If you want to install this keyboard layout on your computer, follow these steps
 
 1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
 
-[Download Hindi Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Hindi-Keyboard-Sulekhanee/releases/download/V4.5.0/Hindi.Native.Keyboard.Sulekhanee.V4.5.0.Zip)
+[Download Hindi Phonetic Keyboard here:](https://github.com/narayan-b-raikar/Hindi-Native-keyboard-Sulekhanee/releases/download/V1.5/Hindi.Native.Keyboard.Sulekhanee.V.1.5.zip)
 
 2. Add Hindi Language (if necessary): Ensure Hindi language is added in your Windows' Languages settings if it's not already included.
 
